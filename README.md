@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yardbirdsax.yardbirdsax)
 
-My name is Josh Feierman, and I'm a software engineer who enjoys working with cloud infrastructure, automation, and writing Golang. Currently I work as a Staff Software Engineer at HBO Max / Warner Brothers Discovery doing work on cloud infrastructure engineering.
+My name is Josh Feierman, and I'm a software engineer who enjoys working with cloud infrastructure, automation, and writing Golang. Currently I work as a Senior Staff Software Engineer at Max / Warner Brothers Discovery, working on cloud infrastructure engineering.
 
 - 🌱 I’m currently learning:
   - How to be a better Go programmer (I code mainly for tool building and automation)
